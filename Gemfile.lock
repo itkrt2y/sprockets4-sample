@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:rails/sprockets.git
-  revision: a270576b32d82f7a62ff2dcd82cd979cb777ffb9
+  revision: a62c02556216ac7e3b0f09257b02cace439e280b
   branch: master
   specs:
     sprockets (4.0.0.beta4)
@@ -141,7 +141,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.0.3)
       execjs (>= 0.3.0, < 3)
-    web-console (3.3.1)
+    web-console (3.4.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       debug_inspector
